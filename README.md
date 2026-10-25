@@ -43,8 +43,6 @@ macrosnap/
 ├── requirements.txt        # Python dependencies
 ├── .gitignore
 ├── LICENSE
-└── .streamlit/
-    └── secrets.toml        # Local secrets; do not commit this file
 ```
 
 ## ⚙️ Run locally
