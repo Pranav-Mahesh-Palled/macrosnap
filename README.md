@@ -7,6 +7,7 @@ MacroSnap is an AI-powered meal-analysis web app built with Streamlit and Google
 <p align="left">
   <a href="https://macrosnap-pranav-palled.streamlit.app/"><strong>🚀 Try MacroSnap</strong></a> ·
   <a href="https://github.com/Pranav-Mahesh-Palled/macrosnap"><strong>💻 View source code</strong></a>
+  <a href="https://drive.google.com/file/d/1iJbQaESP4JYex_sY7K4RjhkRMhHyR1su/view?usp=drivesdk"><strong>🎥 Video Demonstration</strong></a>
 </p>
 
 ## ✨ Features
